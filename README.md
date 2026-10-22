@@ -50,14 +50,12 @@
       <a href="https://app.nordkroft.ru">app.nordkroft.ru ↗</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://red1an.github.io/demo/"><img src="assets/baldezh-zvuk.jpg" alt="Балдёжный звук — питч в финале"></a>
+      <img src="assets/baldezh-ui.jpg" alt="Балдёжный звук — сборный плейлист">
       <h3>🎵 Балдёжный звук · финал «Время IT»</h3>
       Общий плейлист для любой компании: свайпы, рейтинг, сборные плейлисты и ML-рекомендации. Хакатон ГУАП × Звук,
       вышли в финал. Я был лидом бэкенда.
       <br><br>
       <code>Python</code> <code>FastAPI</code> <code>pgvector</code> <code>WebSocket</code> <code>React</code>
-      <br><br>
-      <a href="https://red1an.github.io/demo/">Демо ↗</a>
     </td>
   </tr>
   <tr>
@@ -119,15 +117,5 @@
 - Английский — B2
 
 </details>
-
-## 📈 Статистика
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Red1an&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&title_color=ff7a45&icon_color=ff7a45&locale=ru" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Red1an&layout=compact&theme=github_dark&hide_border=true&title_color=ff7a45&locale=ru" alt="Языки">
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Red1an&theme=github-dark-blue&hide_border=true&ring=FF7A45&fire=FF7A45&currStreakLabel=FF7A45&locale=ru" alt="Серия коммитов">
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a45,100:ffb347&height=110&section=footer" width="100%" alt="">
