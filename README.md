@@ -15,7 +15,7 @@
 Я Максим, backend-разработчик из Санкт-Петербурга, 4 курс ГУАП («Прикладная информатика»).
 
 - 🔧 С июня 2025 пишу бэкенд и веду инфраструктуру в стартапе **[Нордкрофт](https://app.nordkroft.ru)**: ASP.NET Core, PostgreSQL, Redis, S3, CI/CD, деплой.
-- 🏆 **2 место** на акселераторе ТехноПитер, финалы программы **«Цифра»** и хакатона **«Время IT»**.
+- 🏆 **2 место** на акселераторе ТехноПитер, финалы программы **«Цифра»** и хакатона **«Время IT»**, отбор на фестиваль **HSE FEST**.
 - 🧠 На хакатонах пишу на Python: FastAPI, ML-ранжирование, рекомендации.
 - 🌱 Хочу расти до middle: высоконагруженные сервисы, распределённые системы, надёжная эксплуатация.
 - 💬 Открыт к предложениям: стажировка или junior+, офис, гибрид или удалёнка.
@@ -78,20 +78,37 @@
       <code>C#</code> <code>.NET 8</code> <code>WPF</code>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Red1an/LifeHub"><img src="assets/lifehub.jpg" alt="LifeHub — личный хаб мини-приложений"></a>
+      <h3>🧩 LifeHub</h3>
+      Личный хаб мини-приложений: финансы, привычки, заметки, расписание, тренажёр гитары и голосовой помощник «Джарвис».
+      Работает на ПК и с телефона, новые модули пишет нейросеть по SDK хаба.
+      <br><br>
+      <code>TypeScript</code> <code>Node.js</code> <code>React</code> <code>SQLite</code>
+      <br><br>
+      <a href="https://github.com/Red1an/LifeHub">Репозиторий ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📨 ReportBroker</h3>
+      Сервис отчётов по конверсии на Clean Architecture: запросы приходят через RabbitMQ, результат отдаётся по gRPC.
+      Одинаковые отчёты не пересчитываются, статусы кэшируются в Redis, бизнес-логика покрыта юнит-тестами.
+      <br><br>
+      <code>C#</code> <code>.NET</code> <code>RabbitMQ</code> <code>gRPC</code> <code>Redis</code> <code>Docker</code>
+      <br><br>
+      <a href="https://github.com/Red1an/ReportBroker">Репозиторий ↗</a>
+    </td>
+  </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/Red1an/ReportBroker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Red1an&repo=ReportBroker&theme=github_dark&hide_border=true&title_color=ff7a45&icon_color=ff7a45" alt="ReportBroker"></a>
-  <a href="https://github.com/Red1an/LifeHub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Red1an&repo=LifeHub&theme=github_dark&hide_border=true&title_color=ff7a45&icon_color=ff7a45" alt="LifeHub"></a>
-</p>
 
 ## 🏆 Достижения
 
 | Когда | Что | Результат |
 |---|---|---|
-| окт 2026 | Хакатон **«Время IT»**, ГУАП × Звук | 🥈 **Финал**, питч перед экспертами |
+| окт 2026 | Хакатон **«Время IT»**, ГУАП × Звук | 🎯 **Финал**, питч перед экспертами |
 | окт 2026 | Хакатон **RLT.Hack**, Росэлторг | ML-модель подбора поставщиков |
-| мар 2026 | Акселератор **HSE FEST**, НИУ ВШЭ — СПб | Стенд и демо Нордкрофта |
+| мар 2026 | Акселератор **HSE FEST**, НИУ ВШЭ — СПб | ✅ **Прошли отбор** на фестиваль, стенд Нордкрофта |
 | дек 2025 | Акселератор **ТехноПитер**, ГУАП | 🏆 **2 место** |
 | 2025 | Всероссийская программа **«Цифра»** | 🎯 **Финал**, Demo Day |
 
@@ -99,7 +116,7 @@
 
 <table>
   <tr>
-    <td align="center" width="33%"><a href="assets/certs/vremya-it.jpg"><img src="assets/certs/vremya-it.jpg" alt="Сертификат «Время IT»"></a><br><sub><b>«Время IT»</b> · финал · 2026</sub></td>
+    <td align="center" width="33%"><a href="assets/certs/hse-fest.jpg"><img src="assets/certs/hse-fest.jpg" alt="Сертификат HSE FEST"></a><br><sub><b>HSE FEST</b> · НИУ ВШЭ · отбор на фестиваль · 2026</sub></td>
     <td align="center" width="33%"><a href="assets/certs/technopiter.jpg"><img src="assets/certs/technopiter.jpg" alt="Сертификат ТехноПитер"></a><br><sub><b>ТехноПитер</b> · финал, 2 место · 2025</sub></td>
     <td align="center" width="33%"><a href="assets/certs/rlt-hack.jpg"><img src="assets/certs/rlt-hack.jpg" alt="Сертификат RLT.Hack"></a><br><sub><b>RLT.Hack</b> · Росэлторг · 2026</sub></td>
   </tr>
@@ -109,7 +126,7 @@
 <summary>Ещё сертификаты и курсы</summary>
 <br>
 
-- [Акселератор HSE FEST, НИУ ВШЭ — СПб, 2026](assets/certs/hse-fest.jpg)
+- [Хакатон «Время IT», ГУАП × Звук — финал, 2026](assets/certs/vremya-it.jpg)
 - [Всероссийская акселерационная программа «Цифра», 2025](assets/certs/cifra.jpg)
 - [IT-школа ПРОТЕЙ — «Быстрый C++тарт», 2026](assets/certs/protei.jpg)
 - [НОРБИТ — «Вводный курс по 1С», 2026](assets/certs/norbit.jpg)
