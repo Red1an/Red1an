@@ -4,6 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=FF7A45&center=true&vCenter=true&width=620&lines=Backend%20%D0%BD%D0%B0%20C%23%20/%20.NET%20%D0%B8%20Python;%D0%9F%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%88%D0%B5%D0%BD%20%D0%B2%20%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%B0%D0%BF%D0%B5%20%D0%9D%D0%BE%D1%80%D0%B4%D0%BA%D1%80%D0%BE%D1%84%D1%82;2%20%D0%BC%D0%B5%D1%81%D1%82%D0%BE%20%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%9F%D0%B8%D1%82%D0%B5%D1%80%20%C2%B7%20%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%20%C2%AB%D0%92%D1%80%D0%B5%D0%BC%D1%8F%20IT%C2%BB;Docker%20%C2%B7%20CI/CD%20%C2%B7%20Linux" alt="Backend на C# / .NET и Python">
 
+<a href="https://red1an.github.io/"><img src="https://img.shields.io/badge/%D0%A1%D0%B0%D0%B9%D1%82-red1an.github.io-FF7A45?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Сайт"></a>
 <a href="https://t.me/Red1ann"><img src="https://img.shields.io/badge/Telegram-@Red1ann-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 <a href="mailto:pron.max1m@yandex.ru"><img src="https://img.shields.io/badge/Email-pron.max1m@yandex.ru-FF7A45?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
 <a href="https://app.nordkroft.ru"><img src="https://img.shields.io/badge/Нордкрофт-в_продакшене-2EA44F?style=for-the-badge&logo=rocket&logoColor=white" alt="Нордкрофт"></a>
